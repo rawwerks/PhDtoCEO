@@ -10,6 +10,7 @@
 * [Push/Pull](pushpull.md)
 * [The Scientific Method for People](the-scientific-method-for-people.md)
 * [Ecosystems](ecosystems.md)
+* [Accelerated Iteration](accelerated-iteration.md)
 * [Paranoia](paranoia.md)
 * [Part Three: \(Inter\)Personal](part-three.md)
 * [Feelings First](feelings-first.md)
@@ -17,6 +18,7 @@
 * Talking Business
 * Say Yes to No
 * Compensatory Complications
+* [Sychronization Strategies](sychronization-strategies.md)
 * [Shadow Culture](shadow-culture.md)
 * Part Four: Superpositions of Value
 * [The Price of Schrodinger's Cat](the-price-of-schrodingers-cat.md)
