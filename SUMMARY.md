@@ -9,17 +9,19 @@
 * [Money Can't Buy Knives](money-cant-buy-knives.md)
 * [Push/Pull](pushpull.md)
 * [The Scientific Method for People](the-scientific-method-for-people.md)
+* [Ecosystems](ecosystems.md)
 * [Paranoia](paranoia.md)
 * [Part Three: \(Inter\)Personal](part-three.md)
 * [Feelings First](feelings-first.md)
 * [The Architecture of Attention](the-architecture-of-attention.md)
 * Talking Business
 * Say Yes to No
+* Compensatory Complications
 * [Shadow Culture](shadow-culture.md)
 * Part Four: Superpositions of Value
 * [The Price of Schrodinger's Cat](the-price-of-schrodingers-cat.md)
 * [Tell Me A Story](tell-me-a-story.md)
 * [Financial Spectroscopy](financial-spectroscopy.md)
 * [Intellectual Propaganda](intellectual-propaganda.md)
-* Brand Breeding
+* [Brand Breeding](brand-breeding.md)
 
