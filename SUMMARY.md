@@ -15,6 +15,11 @@
 * [The Architecture of Attention](the-architecture-of-attention.md)
 * Talking Business
 * Say Yes to No
+* [Shadow Culture](shadow-culture.md)
 * Part Four: Superpositions of Value
 * [The Price of Schrodinger's Cat](the-price-of-schrodingers-cat.md)
+* [Tell Me A Story](tell-me-a-story.md)
+* [Financial Spectroscopy](financial-spectroscopy.md)
+* [Intellectual Propaganda](intellectual-propaganda.md)
+* Brand Breeding
 
