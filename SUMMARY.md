@@ -17,7 +17,7 @@
 * [The Architecture of Attention](the-architecture-of-attention.md)
 * Talking Business
 * Say Yes to No
-* Compensatory Complications
+* [Compensatory Complications](compensatory-complications.md)
 * [Sychronization Strategies](sychronization-strategies.md)
 * [Shadow Culture](shadow-culture.md)
 * Part Four: Superpositions of Value
