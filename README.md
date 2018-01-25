@@ -1,3 +1,24 @@
-# My Awesome Book
+# PhD to CEO
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+PhD to CEO is a book about metamorphosis by Raymond Weitekamp. 
+
+
+
+_This is currently a work in progress, hosted out in the open for a few reasons:_
+
+* Accountability - it will be embarassing to leave this in a state of disrepair, but if I die tomorrow at least you'll have an outline
+* Feedback - iteration is the name of the game
+* Searchability 
+* Modularity
+
+
+
+There are currently four Parts planned:
+
+1. Taking the Leap
+2. Solving Really Hard Problems
+3. \(Inter\)Personal
+4. Superpositions of Value
+
+
+
