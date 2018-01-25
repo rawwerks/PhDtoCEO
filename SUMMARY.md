@@ -26,4 +26,5 @@
 * [Financial Spectroscopy](financial-spectroscopy.md)
 * [Intellectual Propaganda](intellectual-propaganda.md)
 * [Brand Breeding](brand-breeding.md)
+* [Epilogue](epilogue.md)
 

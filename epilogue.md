@@ -1,0 +1,1 @@
+Hopefully this book helped you make the transition from Phd to CEO. Is it everything you hoped for?
