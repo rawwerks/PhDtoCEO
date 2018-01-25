@@ -1,6 +1,6 @@
 # PhD to CEO
 
-PhD to CEO is a book about metamorphosis by Raymond Weitekamp.
+PhD to CEO is a book about metamorphosis by Raymond Weitekamp, Founder and CEO of [polySpectra](http://polyspectra.com).
 
 _This is currently a work in progress, hosted out in the open for a few reasons:_
 
